@@ -1,0 +1,17 @@
+{
+  "name": "backend-course-2025-4",
+  "version": "1.0.0",
+  "description": "Laboratory work 4 for variant 6 with titanic.json",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js",
+    "dev": "nodemon main.js"
+  },
+  "dependencies": {
+    "commander": "^12.1.0",
+    "fast-xml-parser": "^4.4.1"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.4"
+  }
+}
